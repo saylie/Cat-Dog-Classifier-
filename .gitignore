@@ -1,0 +1,24 @@
+# Node.js (React App)
+cat-dog-classifier/node_modules/
+cat-dog-classifier/npm-debug.log
+cat-dog-classifier/yarn-error.log
+
+# React Build Files
+cat-dog-classifier/build/
+
+# Python Cache and Virtual Environment
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+venv/
+*.venv/
+.env
+
+# Logs and Cache
+logs/
+*.log
+.DS_Store
+
+# Jupyter Notebooks (if using)
+.ipynb_checkpoints/
